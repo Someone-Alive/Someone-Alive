@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Someone-Alive
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++, python, javascript, html and css.
 - 💞️ I'm just coding for fun
 - 📫 How to reach me ...
 
