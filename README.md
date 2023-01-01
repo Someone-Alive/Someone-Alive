@@ -1,5 +1,5 @@
 # Hello World
-Hi there, my name is Noah and I am a freshman high school student.
+Hi there, my name is Noah, I am a freshman high school student and I love space
 
 ## Tools
 ### Languages
