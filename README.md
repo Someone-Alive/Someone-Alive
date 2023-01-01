@@ -16,3 +16,6 @@ Hi there, my name is Noah, I am a freshman high school student and I love space
 
 ## GitHub Stats
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=Someone-Alive&theme=dark&show_icons=true)
+
+## Contact
+- Email: noahkim6212@gmail.com
