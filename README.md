@@ -1,5 +1,5 @@
 # Hello World
-Hi there, my name is Noah, I am a high school student and I love space
+Hi there, I love technology, am a high school student, and I love space
 
 ## Tools
 ### Languages
