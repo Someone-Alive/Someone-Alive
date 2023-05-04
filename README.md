@@ -1,5 +1,5 @@
 # Hello World
-Hi there, I love technology, am a high school student, and I love space
+Hi there, I love technology, a high school student, and I love space
 
 ## Tools
 ### Languages
